@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deyan Kavindu</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Cording" width="400" src="https://img.freepik.com/premium-vector/programmer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyankavindu&label=Profile%20views&color=0e75b6&style=flat" alt="deyankavindu" /> </p>
 
